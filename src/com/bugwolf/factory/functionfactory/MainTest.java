@@ -1,5 +1,9 @@
 package com.bugwolf.factory.functionfactory;
 
+import com.bugwolf.factory.functionfactory.factory.AudiFactory;
+import com.bugwolf.factory.functionfactory.factory.BMWFactory;
+import com.bugwolf.factory.functionfactory.factory.BenzFactory;
+
 public class MainTest {
     public static void main(String[] args) {
         //Audi

@@ -1,4 +1,4 @@
-package com.bugwolf.factory;
+package com.bugwolf.factory.functionfactory.car;
 
 public class Benz implements  Car{
 

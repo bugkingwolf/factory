@@ -1,9 +1,10 @@
 package com.bugwolf.factory.simplefactory;
 
-import com.bugwolf.factory.Audi;
-import com.bugwolf.factory.BWM;
-import com.bugwolf.factory.Benz;
-import com.bugwolf.factory.Car;
+
+import com.bugwolf.factory.simplefactory.car.Audi;
+import com.bugwolf.factory.simplefactory.car.BWM;
+import com.bugwolf.factory.simplefactory.car.Benz;
+import com.bugwolf.factory.simplefactory.car.Car;
 
 public class SimpleFactory {
 
